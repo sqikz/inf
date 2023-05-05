@@ -1,29 +1,29 @@
 h1 {
-color: purple;
+    color: purple;
 }
 body {
-	background-color: gray;
+    background-color: gray;
 }
 a:link {
-  color: transparent;
+  color: white;
   background-color: black;
   text-decoration: none;
 }
 
 a:visited {
-  color: transparent;
+  color: white;
   background-color: black;
   text-decoration: none;
 }
 
 a:hover {
-  color: yellow;
-  background-color: black;
+  color: black;
+  background-color: white;
   text-decoration: underline;
 }
-
+    
 a:active {
-  color: transparent;
+  color: white;
   background-color: black;
   text-decoration: underline;
 }
